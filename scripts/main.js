@@ -41,14 +41,14 @@ class GameBasics {
     this.setting = {
       updateSeconds: (1 /60),
       spaceshipSpeed: 200,
-      bulletSpeed: 130,
+      bulletSpeed: 230,
       bulletMaxFrequency: 500,
       ufoLines: 4,
       ufoColumns: 8,
       ufoSpeed: 35,
       ufoSinkingValue: 30,
       bombSpeed: 75,
-      bombFrequency: 1,
+      bombFrequency: 0.05,
       pointsPerUFO: 125,
     };
     // we collect here the different positions, states of the game 
