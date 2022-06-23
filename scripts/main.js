@@ -41,7 +41,7 @@ class GameBasics {
     this.setting = {
       updateSeconds: (1 /60),
       spaceshipSpeed: 200,
-      bulletSpeed: 230,
+      bulletSpeed: 530,
       bulletMaxFrequency: 500,
       ufoLines: 4,
       ufoColumns: 8,
