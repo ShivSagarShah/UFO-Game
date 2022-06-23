@@ -39,7 +39,7 @@ class GameBasics {
     this.shields = 2;
     // game settings
     this.setting = {
-      updateSeconds: (1 / 60),
+      updateSeconds: (1 / 10),
       spaceshipSpeed: 200,
       bulletSpeed: 130,
       bulletMaxFrequency: 500,
